@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+URL to Feedback App 
+https://6349433b058c242638f14a03--zesty-torrone-8d49a7.netlify.app/
+
 This is a React app to leave feedback for a product or service.
 Write your feedback atleast 10 characters, choose the rate you wanna leave and then submit it.
 You can update the review by pushing an edit button and change it in the main section.
