@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React app to leave feedback for a product or service.
+Write your feedback atleast 10 characters, choose the rate you wanna leave and then submit it.
+You can update the review by pushing an edit button and change it in the main section.
+You can also delete the feedback.
 
 ## Available Scripts
 
